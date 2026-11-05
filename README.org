@@ -1,0 +1,1 @@
+My solutions for [[https://www.xorpd.net/pages/xchg_rax/snip_00.html][xchg-rax-rax]]
