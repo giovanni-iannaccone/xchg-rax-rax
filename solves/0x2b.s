@@ -1,8 +1,5 @@
-;; I don't know, this looks like it always
-;; sets rax to the first element of the
-;; array pointed by rbx, but it can't be
-;; this simple
-    
+;; finds loops inside of some sort of linked list. 
+
 xor eax, eax
 xor edx, edx
 
